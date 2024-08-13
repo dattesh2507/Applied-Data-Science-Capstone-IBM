@@ -77,4 +77,9 @@ To verify the certificates, click the images to follow the links.
 
 
 
+**Certificate from Coursera, certifying that Badaganchi Dattesh has successfully completed the *Applied Data Science Capstone* course. This course is authorized by IBM and offered through Coursera. The certificate bears the signatures of Yan Luo, Ph.D., a Data Scientist and Developer, and Joseph Santarcangelo, a Senior Data Scientist at IBM. Coursera has verified the identity of the participant and confirmed their participation in the course.**
+
+<p align="middle">
+   <img  src= "https://github.com/user-attachments/assets/b6f0df5b-2576-4370-9818-c43fe372bc2c" height="50"> <br>
+</p>
 
