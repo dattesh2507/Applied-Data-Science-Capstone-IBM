@@ -1,3 +1,7 @@
+<img src="https://github.com/user-attachments/assets/7c5d6c4a-a458-4746-afd8-279410e5741f" alt="Header"/> 
+
+
+
 # :rocket: Applied-Data-Science-Capstone-IBM
 
 
